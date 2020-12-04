@@ -7,4 +7,3 @@
 作る過程については、以下でまとめています。
 
 [HyperCube 3Dプリンターを作ってみる](https://hackmd.io/@seya128/HyperCube-Book)
-# HyperCube
