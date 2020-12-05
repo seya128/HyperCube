@@ -18,5 +18,15 @@
 [Hypercube Z Carriage Aligned to End \- 12mm Rods by jaeestrada \- Thingiverse](https://www.thingiverse.com/thing:4411536)
 
 
+## ヒートベッド取り付けパーツ
+
+* Bed_Support v3
+
+使用した取り付けネジ  
+[3D プリンタ部品加熱されたベッド春レベリングキット調整ナット \+ スプリング \+ ネジ Heatbed 用 CR 10 エンダー 3 MK3 温床\|3Dプリンタパーツ & アクセサリ\| \- AliExpress](https://ja.aliexpress.com/item/4000123619984.html)
+
+
+
+
 
 
